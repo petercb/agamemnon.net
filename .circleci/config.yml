@@ -24,6 +24,7 @@ jobs:
       - checkout
       - hugo/hugo-build
       - hugo/html-proofer:
+          check-html: false
           path: ./public
       - persist_to_workspace:
           paths:
@@ -48,6 +49,8 @@ workflows:
     jobs:
       - build
       - deploy:
+          context:
+            - aws
           filters:
             branches:
               only: master
