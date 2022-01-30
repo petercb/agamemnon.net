@@ -3,7 +3,7 @@ version: 2.1
 
 orbs:
   aws-s3: circleci/aws-s3@3.0.0
-  hugo: circleci/hugo@0.1
+  hugo: circleci/hugo@1.2.2
 
 commands:
   ensure-git-lfs:
