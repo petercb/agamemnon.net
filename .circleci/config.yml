@@ -17,9 +17,8 @@ commands:
 
 jobs:
   build:
-    executor:
-      name: hugo/default
-      tag: '0.92.1'
+    docker:
+      - image: cibuilds/hugo:0.91.1
     steps:
       - ensure-git-lfs
       - checkout
