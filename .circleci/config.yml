@@ -1,0 +1,56 @@
+---
+version: 2.1
+
+orbs:
+  aws-s3: circleci/aws-s3@3.0.0
+  hugo: circleci/hugo@0.1
+
+commands:
+  ensure-git-lfs:
+    steps:
+      - run:
+          name: Check/Install Git LFS
+          command: |
+            if ! git lfs version; then
+              sudo apt-get update && sudo apt-get install git-lfs
+            fi
+
+jobs:
+  build:
+    executor:
+      name: hugo/default
+      tag: '0.92.1'
+    steps:
+      - ensure-git-lfs
+      - checkout
+      - hugo/hugo-build
+      - hugo/html-proofer:
+          path: ./public
+      - persist_to_workspace:
+          paths:
+            - public
+          root: .
+  deploy:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - attach_workspace:
+          at: .
+      - run: ls -lah .
+      - aws-s3/sync:
+          arguments: |
+            --acl public-read \
+            --delete
+          from: public
+          to: 's3://www.agamemnon.net'
+
+workflows:
+  main:
+    jobs:
+      - build
+      - deploy:
+          filters:
+            branches:
+              only: master
+          requires:
+            - build

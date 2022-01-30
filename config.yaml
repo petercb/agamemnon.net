@@ -1,0 +1,9 @@
+baseURL: 'http://www.agamemnon.net/'
+languageCode: en-gb
+title: Agamemnon.net
+module:
+  imports:
+    - path: 'github.com/alex-shpak/hugo-book'
+params:
+  BookSection: "*"
+  BooKTheme: auto
