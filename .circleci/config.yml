@@ -39,7 +39,6 @@ jobs:
       - run: ls -lah .
       - aws-s3/sync:
           arguments: |
-            --acl public-read \
             --delete
           from: public
           to: 's3://www.agamemnon.net'
