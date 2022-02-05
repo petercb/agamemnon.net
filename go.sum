@@ -1,6 +1,2 @@
 github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2 h1:Z9qihHQUaoDO6AT3+NiNgEA2J7q+QdglapqabPu8eaE=
 github.com/alex-shpak/hugo-book v0.0.0-20220113182002-3a65df3a76e2/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220119163232-523c7716613d h1:WAgW35OszZkfd2nZMxHkfn7e6o417ub2SLz8NoCqI74=
-github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220119163232-523c7716613d/go.mod h1:bgj7bjD98mZSR/KOYKuF5lcIgEmTnJ763rZH4EseLv4=
-github.com/yoshiharuyamashita/blackburn v0.0.0-20211014173406-94143e0e42a5 h1:zU2eVRMKse3rhDty33bnjoxZXj2PlLFgx4mhqEVxKRs=
-github.com/yoshiharuyamashita/blackburn v0.0.0-20211014173406-94143e0e42a5/go.mod h1:6pbezvonWoLff+OHRlnl5srs2LpACJnkJjpRHYEutDs=
