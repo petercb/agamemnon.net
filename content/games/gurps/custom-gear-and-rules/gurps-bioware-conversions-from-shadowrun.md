@@ -1,6 +1,8 @@
 ---
 title: Bioware (Shadowrun Conversions)
 ---
+**BIOWARE CONVERSIONS**
+
 **CIRCULATORY**
 
 **SYMBIOTES**
@@ -47,7 +49,7 @@ Lvl Healing Modifier Food/Beverage Intake Cost
 
 **ADRENAL PUMP**
 
-**Level** **Bonuses ** **Cost**
+**Level** **Bonuses** **Cost**
 
 1 +1 ST, +1 Willpower, +2 move $60,000
 
@@ -63,7 +65,11 @@ Food requirements still apply.
 
 **ENHANCED DIGESTION TRACT**
 
-With this procedure the patients stomach and intestines, as well as other organs that help aid in digestion, are enhanced to allow the character to extract more nutrients from the food he eats. This allows the character to be able to survive on much less food or food of poorer quality.
+With this procedure the patients stomach and intestines, as well as
+other organs that help aid in digestion, are enhanced to allow the
+character to extract more nutrients from the food he eats. This allows
+the character to be able to survive on much less food or food of poorer
+quality.
 
 **Level** **Food/Beverage Intake** **Cost**
 
