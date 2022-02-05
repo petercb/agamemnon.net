@@ -22,7 +22,8 @@ jobs:
     steps:
       - ensure-git-lfs
       - checkout
-      - hugo/hugo-build
+      - hugo/hugo-build:
+          extra-flags: --minify
       - hugo/html-proofer:
           check-html: false
           path: ./public
