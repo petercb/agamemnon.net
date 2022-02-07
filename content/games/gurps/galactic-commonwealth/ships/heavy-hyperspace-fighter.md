@@ -1,0 +1,223 @@
+---
+title: Heavy Hyperspace Fighter
+draft: true
+---
+
+<table>
+<colgroup>
+<col style="width: 56%" />
+<col style="width: 12%" />
+<col style="width: 11%" />
+<col style="width: 11%" />
+<col style="width: 7%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>GURPS Space: TL 13 -- Heavy Hyperspace
+Fighter</strong></p>
+<p>- Two man limited range fighter with hyperdrive</p></td>
+<td><strong>Cost ($)</strong></td>
+<td><strong>Mass (tons)</strong></td>
+<td><strong>Volume (cy)</strong></td>
+<td><strong>Power (MW)</strong></td>
+</tr>
+<tr class="even">
+<td>Hull Size: 250 cy</td>
+<td>$ 500,000</td>
+<td>0.0250</td>
+<td>250.00</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Armor: DF 7</td>
+<td>$ 11,200,000</td>
+<td>22.4000</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Force Field - DF 3</td>
+<td>$ 80,000</td>
+<td>8.0000</td>
+<td>-4.00</td>
+<td>-10.0</td>
+</tr>
+<tr class="odd">
+<td>Streamlining: Winged</td>
+<td>$ 500,000</td>
+<td>0.0063</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Stress Rating: 300 tons</td>
+<td>$ 50,000</td>
+<td>0.0025</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Crew: 2, seated</td>
+<td>$ 2,000</td>
+<td>1.0000</td>
+<td>-3.00</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Life Systems: Limited =&gt; 10 man-days</td>
+<td>$ 2,500</td>
+<td>0.5000</td>
+<td>-0.50</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sensors: TL 13 Miniturized Sensor Suite</td>
+<td>$ 250,000</td>
+<td>1.0000</td>
+<td>-1.00</td>
+<td>-0.5</td>
+</tr>
+<tr class="even">
+<td>Miniturized Stealth Suite (-1)</td>
+<td>$ 150,000</td>
+<td>0.6000</td>
+<td>-1.50</td>
+<td>-1.5</td>
+</tr>
+<tr class="odd">
+<td>Communications: Gravity Ripple with Micronized Fast FTL Radio</td>
+<td>$ 2,000,000</td>
+<td>2.5000</td>
+<td>-2.50</td>
+<td>-5.0</td>
+</tr>
+<tr class="even">
+<td>Computer: Sentient Optical Minicomputer (complexity 8; IQ 16)</td>
+<td>$ 56,250</td>
+<td>0.0000</td>
+<td>0.00</td>
+<td>0.0</td>
+</tr>
+<tr class="odd">
+<td>Backup Computer: Optical Minicomputer (complexity 8)</td>
+<td>$ 18,750</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Computer Piloting and Targeting Modifications</td>
+<td>$ 95,000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>- Programs: Piloting-19, Astrogation (STL&amp;FTL)-17, Damage
+Control, Targeting, Gunner-17, Optical Recognition, and Astrogation
+Database.</td>
+<td>$ 708,000</td>
+<td>0.0000</td>
+<td>0.00</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Landing Gear: Retractable</td>
+<td>$ 5,000</td>
+<td>3.0000</td>
+<td>-3.00</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Grav Compensators (cancels up to 4G's of acceleration)</td>
+<td>$ 20,000</td>
+<td>1.0000</td>
+<td>-1.00</td>
+<td>-1.0</td>
+</tr>
+<tr class="even">
+<td>FTL Drive: Hyperdrive - HF 8</td>
+<td>$ 192,000</td>
+<td>24.0000</td>
+<td>-72.00</td>
+<td>-144.0</td>
+</tr>
+<tr class="odd">
+<td>Hyperdrive Jump Capacitors -- MW-h: 30</td>
+<td>$ 300,000</td>
+<td>1.5000</td>
+<td>-0.30</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Maneuver Drive: Reactionless -- Tons of Thrust: 600</td>
+<td>$ 120,000</td>
+<td>3.0000</td>
+<td>-12.00</td>
+<td>-6.0</td>
+</tr>
+<tr class="odd">
+<td>Power Plant: TL 13 Pocket Antimatter</td>
+<td>$ 1,100,000</td>
+<td>27.5000</td>
+<td>-27.50</td>
+<td>1100.0</td>
+</tr>
+<tr class="even">
+<td>Heavy Missile Launcher</td>
+<td>$ 20,000</td>
+<td>2.0000</td>
+<td>-5.00</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>9 × Heavy Antimatter Missiles (2000 FP each)</td>
+<td>$ 675,000</td>
+<td>9.0000</td>
+<td>-36.00</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>4 × Gatling Lasers (80 FP each)</td>
+<td>$ 120,000</td>
+<td>8.0000</td>
+<td>-8.00</td>
+<td>-80.0</td>
+</tr>
+<tr class="odd">
+<td>2 × Heavy Phasers (2000 FP each)</td>
+<td>$ 800,000</td>
+<td>180.0000</td>
+<td>-70.00</td>
+<td>-800.0</td>
+</tr>
+<tr class="even">
+<td><strong>TOTALS</strong></td>
+<td>$ 18,964,500</td>
+<td>295.0338</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Surplus/Deficit Power</td>
+<td></td>
+<td></td>
+<td></td>
+<td>52.0</td>
+</tr>
+<tr class="even">
+<td>Maximum Cargo Mass and Volume</td>
+<td></td>
+<td>4.9663</td>
+<td>2.70</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Loaded Mass</td>
+<td></td>
+<td>300.0000</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>

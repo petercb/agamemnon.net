@@ -1,0 +1,357 @@
+---
+title: Modified Heavy Corvette
+draft: true
+---
+<table>
+<colgroup>
+<col style="width: 59%" />
+<col style="width: 15%" />
+<col style="width: 7%" />
+<col style="width: 10%" />
+<col style="width: 8%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>GURPS Space: TL 14 -- Modified Heavy Scout
+Corvette</strong></p>
+<p>- Operating crew for ship is 12</p></td>
+<td><strong>Cost ($)</strong></td>
+<td><strong>Mass (tons)</strong></td>
+<td><strong>Volume (cy)</strong></td>
+<td><strong>Power (MW)</strong></td>
+</tr>
+<tr class="even">
+<td>Hull Size (cy): 3,000</td>
+<td>$ 6,000,000</td>
+<td>0.3</td>
+<td>3000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Armor: DF 9</td>
+<td>$ 384,000,000</td>
+<td>768</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Force Field - DF 7</td>
+<td>$ 1,280,000</td>
+<td>128</td>
+<td>-64</td>
+<td>-20</td>
+</tr>
+<tr class="odd">
+<td>Streamlining: Winged</td>
+<td>$ 6,000,000</td>
+<td>0.075</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Stress Rating (tons): 6,000 tons</td>
+<td>$ 3,000,000</td>
+<td>0.15</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Pocket Dimension "A"</strong> (includes all '*' denoted
+items)</td>
+<td>$ 1,000,000,000</td>
+<td></td>
+<td>120637</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>*Accommodations (luxury): 800</td>
+<td>$ 24,000,000</td>
+<td>2400</td>
+<td>-80000</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>*Main Bridge</td>
+<td>$ 16,000</td>
+<td>16</td>
+<td>-160</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Auxiliary Bridge, Engineering, corridors, and other controls</td>
+<td>$ 12,000</td>
+<td>3.5</td>
+<td>-82</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Life Systems: Full (Micronized), 36 people</td>
+<td>$ 57,500</td>
+<td>5</td>
+<td>-19</td>
+<td>-36</td>
+</tr>
+<tr class="even">
+<td>Airlocks: 2 One-man, 2 Standard, 1 Large</td>
+<td>$ 46,000</td>
+<td>5</td>
+<td>-44</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Sensors: 3 × Micronized Triple Range Sensor Suites</td>
+<td>$ 3,000,000</td>
+<td>12</td>
+<td>-12</td>
+<td>-6</td>
+</tr>
+<tr class="even">
+<td>Miniturized Stealth Suite (-6)</td>
+<td>$ 57,600,000</td>
+<td>230.4</td>
+<td>-576</td>
+<td>-16</td>
+</tr>
+<tr class="odd">
+<td>Communications: Gravity Ripple with Micronized Fast FTL Radio</td>
+<td>$ 2,000,000</td>
+<td>2.5</td>
+<td>-2.5</td>
+<td>-5</td>
+</tr>
+<tr class="even">
+<td>*Computer: Sentient Optical Megacomputer (Complexity 13, IQ 26)</td>
+<td>$ 7,500,000</td>
+<td>0.5</td>
+<td>-5</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Backup Computer: Optical Microcomputer (Complexity 10)</td>
+<td>$ 80,000</td>
+<td>0.05</td>
+<td>-0.05</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Computer Piloting and Targeting Modifications</td>
+<td>$ 704,000</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>- Programs: Standard</td>
+<td>$ 5,331,400</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Landing Gear: Fixed</td>
+<td>$ 3,600</td>
+<td>36</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3 × Artificial Gravity Units</td>
+<td>$ 60,000</td>
+<td>3</td>
+<td>-3</td>
+<td>-3</td>
+</tr>
+<tr class="even">
+<td>FTL Drive: Hyperdrive - HF 9</td>
+<td>$ 2,304,000</td>
+<td>288</td>
+<td>-864</td>
+<td>-576</td>
+</tr>
+<tr class="odd">
+<td>Hyperdrive Jump Capacitors -- MW-h: 360</td>
+<td>$ 3,600,000</td>
+<td>18</td>
+<td>-3.6</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Maneuver Drive: Phaseon Inertialess -- WTF: 36</td>
+<td>$ 3,800</td>
+<td>1.9</td>
+<td>-4.3</td>
+<td>-4</td>
+</tr>
+<tr class="odd">
+<td>Power Plant: Total Conversion</td>
+<td>$ 4,800,000</td>
+<td>160</td>
+<td>-240</td>
+<td>16000</td>
+</tr>
+<tr class="even">
+<td>Backup Power Plant: Total Conversion</td>
+<td>$ 1,800,000</td>
+<td>60</td>
+<td>-90</td>
+<td>6000</td>
+</tr>
+<tr class="odd">
+<td><strong>Pocket Dimension "B"</strong> Hanger &amp; Cargo Bay --
+(40,000/60,637)</td>
+<td>$ 1,000,000,000</td>
+<td></td>
+<td>120637</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Hangar/Cargo Bay Doors</td>
+<td>$ 5,000</td>
+<td>1</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>Pocket Dimension "C"</strong> Full-Size TL 14 Robofac
+Industrial Replicator, plus raw material storage and processing,
+workshops, and Sentient Megacomputer;</td>
+<td>$ 3,400,000,000</td>
+<td></td>
+<td>30883112</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>*Chyrsalis Machine &amp; Braincorder × 40</td>
+<td>$ 10,000,000</td>
+<td>40</td>
+<td>-140</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Tractor/Pressor Beam</td>
+<td>$ 38,000</td>
+<td>10</td>
+<td>-25</td>
+<td>-10</td>
+</tr>
+<tr class="even">
+<td>Large Nuclear Damper (Up to ten mile radius of protection)</td>
+<td>$ 100,000,000</td>
+<td>1</td>
+<td>-1</td>
+<td>-0</td>
+</tr>
+<tr class="odd">
+<td>Transporter (20 man-size) -- Range = 10,000 miles</td>
+<td>$ 10,000,000,000</td>
+<td>40</td>
+<td>-40</td>
+<td>-200</td>
+</tr>
+<tr class="even">
+<td>Stasis/Tau-Field Grid</td>
+<td>$ 465,000,000</td>
+<td>225.75</td>
+<td>-225.75</td>
+<td>-301</td>
+</tr>
+<tr class="odd">
+<td>Timescanner</td>
+<td>$ 80,000,000</td>
+<td>5</td>
+<td>-8</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>32 × Heavy Phasers (2000 FP each; 64000 total)</td>
+<td>$ 6,400,000</td>
+<td>1440</td>
+<td>-560</td>
+<td>-12800</td>
+</tr>
+<tr class="odd">
+<td>6 × Gatling Phasers (500 FP each; 3000 total)</td>
+<td>$ 240,000</td>
+<td>75</td>
+<td>-24</td>
+<td>-600</td>
+</tr>
+<tr class="even">
+<td>20 × Gatling Lasers (80 FP each; 1600 total)</td>
+<td>$ 300,000</td>
+<td>20</td>
+<td>-20</td>
+<td>-400</td>
+</tr>
+<tr class="odd">
+<td>2 × Light Missile Launcher</td>
+<td>$ 10,000</td>
+<td>1</td>
+<td>-4</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>3 × Heavy Missile Launchers</td>
+<td>$ 60,000</td>
+<td>6</td>
+<td>-15</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>*Drop Capsules × 60</td>
+<td>$ 150,000</td>
+<td>6</td>
+<td>-30</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>*Stealth Drop Capsules × 20</td>
+<td>$ 125,000</td>
+<td>2.25</td>
+<td>-10</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>*Heavy Antimatter Missiles × 400 (4000 FP each)</td>
+<td>$ 30,000,000</td>
+<td>400</td>
+<td>-1600</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Regenerating Living Metal Starship System</td>
+<td>$ 16,600,194,900</td>
+<td>30</td>
+<td>-60</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>TOTALS</strong></td>
+<td>$ 33,205,721,200</td>
+<td>3576.6</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Surplus/Deficit Power</td>
+<td></td>
+<td></td>
+<td></td>
+<td>7023</td>
+</tr>
+<tr class="odd">
+<td>Maximum Cargo Mass and Volume</td>
+<td></td>
+<td>23.375</td>
+<td>12.8</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Loaded Mass</td>
+<td></td>
+<td>3600</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>

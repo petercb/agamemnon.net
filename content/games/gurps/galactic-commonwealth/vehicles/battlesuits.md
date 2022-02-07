@@ -1,0 +1,167 @@
+**Battlesuits**
+
+<table>
+<colgroup>
+<col style="width: 68%" />
+<col style="width: 5%" />
+<col style="width: 6%" />
+<col style="width: 8%" />
+<col style="width: 11%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>TL 14 Avenger Light Battlesuit</strong></td>
+<td><strong>PD</strong></td>
+<td><strong>DR</strong></td>
+<td><strong>Weight</strong></td>
+<td><strong>Cost</strong></td>
+</tr>
+<tr class="even">
+<td>Torso (9-11, 17-18)</td>
+<td>6</td>
+<td>300</td>
+<td>180</td>
+<td>$ 40,500</td>
+</tr>
+<tr class="odd">
+<td>Limbs and Head</td>
+<td>6</td>
+<td>200</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Gloves (7) and Face Plate (5)</td>
+<td>6</td>
+<td>150</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>Force Shield (Left Arm)</td>
+<td>+2</td>
+<td></td>
+<td>0.5</td>
+<td>$ 500</td>
+</tr>
+<tr class="even">
+<td>Force Screen</td>
+<td></td>
+<td>1500</td>
+<td>55</td>
+<td>$ 98,000</td>
+</tr>
+<tr class="odd">
+<td>ST 40</td>
+<td></td>
+<td></td>
+<td></td>
+<td>$ 5,000</td>
+</tr>
+<tr class="even">
+<td>Features: Integral sensor visor, holographic HUD, long-range gravity
+ripple communicator, Sentient personal computer (comp 8; IQ 16),
+radiation PF of 20, life-support pack (six weeks of air and water), 1
+week of food, waste relief and recycling system, infrared cloaking,
+laser sensors, Intruder System, Neutrino Receiver &amp; Communicator,
+Distort System, Thermal-Superconducting Surface, Magnetized foot plates,
+Holograph System (self).</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>$ 17,000</td>
+</tr>
+<tr class="odd">
+<td>Advanced Neural Induction System, adds +4 to the battlesuit skill as
+well as other bonuses that a neural interface would normally confer.
+Plus the system has 10 skill chips included, the pilot can only use IQ/2
+chips at once and any chip slots he/she may already be running are
+included in this limit. The standard chips are as follows:
+Battlesuit[8], Free Fall[8], Force Sword[8], Electronics Operations
+(Communications)[8], Electronics Operations (Sensors)[8], Combat
+Reflexes, Amp Chip, Ambidexterity, Common Sense, and Tactics[14]. The
+pilot may replace any of the chips with other selections if he
+wishes.</td>
+<td></td>
+<td></td>
+<td>3</td>
+<td>$ 131,750</td>
+</tr>
+<tr class="even">
+<td>Computer Programs: Targeting(1), Gunner(4)-18, Datalink(1),
+Strategy(3)-17, Tactics(3)-17, Optical Recognition(4), Piloting(4)-20,
+Translation(6)VH</td>
+<td></td>
+<td></td>
+<td></td>
+<td>$ 84,600</td>
+</tr>
+<tr class="odd">
+<td><p>Advanced Targeting System (divide targets effective speed/range
+by 100)</p>
+<p>- computer targeting systems also give a +10 to effective skill when
+firing a weapon</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Reactionless Thruster System (180 mph; with contragrav system; 4G
+acceleration in space)</td>
+<td></td>
+<td></td>
+<td>40</td>
+<td>$ 7,750</td>
+</tr>
+<tr class="odd">
+<td>Grav Compenasator (8 G's)</td>
+<td></td>
+<td></td>
+<td>35</td>
+<td>$ 17,000</td>
+</tr>
+<tr class="even">
+<td>Hunter Missile Launcher (Shoulders &amp; Back) -- 6 missiles</td>
+<td>6</td>
+<td>90</td>
+<td>27</td>
+<td>$ 23,300</td>
+</tr>
+<tr class="odd">
+<td>Gatling Graser (Right Arm)</td>
+<td>6</td>
+<td>150</td>
+<td>55</td>
+<td>$ 18,000</td>
+</tr>
+<tr class="even">
+<td>Double Barrelled Electron Rifle (Left Arm)</td>
+<td>6</td>
+<td>150</td>
+<td>8</td>
+<td>$ 3,000</td>
+</tr>
+<tr class="odd">
+<td>Small Total Conversion Power Plant</td>
+<td></td>
+<td></td>
+<td>10</td>
+<td>$ 150</td>
+</tr>
+<tr class="even">
+<td>Living Metal Systems</td>
+<td></td>
+<td></td>
+<td></td>
+<td>$ 361,950</td>
+</tr>
+<tr class="odd">
+<td>Height: 7'-9" <strong>TOTALS</strong></td>
+<td></td>
+<td></td>
+<td>423.5</td>
+<td>$ 808,500</td>
+</tr>
+</tbody>
+</table>
