@@ -1,5 +1,6 @@
 ---
 title: The Galactic Commonwealth
+bookCollapseSection: true
 ---
 **The Galactic Commonwealth**
 
