@@ -1,5 +1,6 @@
 ---
 title: Games
+bookCollapseSection: true
 ---
 I am a big fan of games, be they card, board, video, or role playing.
 

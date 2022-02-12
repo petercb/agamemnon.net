@@ -6,6 +6,7 @@ categories:
   - dessert
 ---
 ## INGREDIENTS
+
 * 6 medium apples, pared and sliced
 * 1/2 cup all purpose flour, sifted (60 gm / 2oz)
 * 3/4 tsp (4 ml) ground cinnamon
@@ -15,6 +16,7 @@ categories:
 * 3/4 tsp (4ml) ground nutmeg
 
 ## METHOD
+
 Preheat oven to 375°F (190°C).
 
 Grease baking dish with additional butter and arrange apple slices in it.

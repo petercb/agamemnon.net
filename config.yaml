@@ -1,6 +1,7 @@
 baseURL: 'https://www.agamemnon.net/'
 languageCode: en-gb
 title: Agamemnon.net
+copyright: © {{ now.Format "2021" }} Peter Burns. <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.
 module:
   imports:
     - path: 'github.com/alex-shpak/hugo-book'
