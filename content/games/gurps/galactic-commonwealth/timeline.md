@@ -1,39 +1,19 @@
 ---
 title: Timeline
-draft: true
 ---
 **Historic Timeline: The Rise of the Galactic Commonwealth**
 
-1998-2007 Period of exceptional economic growth, large companies expand
-greatly, millions of small companies spring up overnight. Great fortunes
-are acquired, both by companies and individuals, breakthroughs in
-cloning and cybernetics are made.
-
-2008-2018 The Great Depression. Over-population and weak governments
-cause a rapid decline in the economic structure and a sudden stock
-market crash doesn't help matters either. Smaller companies go bankrupt
-overnight and are bought out by large international corporations.
-General Tech Level increases to 8.
-
-2019-2025 Birth of the Mega-Corps. Large international corporations
-consolidate their power and build giant workplaces/living complexes for
-their employees to work and live in. Over-population causes overcrowding
-of cities and a drastic increase in crime. The Mega-Corps do as they
-please while bribing government officials to turn the other way.
-
-2026-2050 The beginning of the Second Dark-Ages of mankind. Governments
-collapse and the Mega-Corps and their employees retreat into their
-man-made monolithic Fortresses, Space Stations, Colonies, and Outposts.
-The areas outside the Mega-Corps become no-mans lands.
+2050 (TL8) The beginning of the Second Dark-Ages of mankind. Governments
+collapse and the Mega-Corporations fortify themselves in massive self-contained
+fortress factories. The areas outside the Mega-Corps become no-mans lands.
 
 2051-2079 The height of the Second Dark Ages. During this time the
 Mega-Corps create their own private cyber-armies to do battle on rival
 Corps. Anyone caught in the middle is indiscriminately exterminated.
-Some desperate people scrape together large sums of money and attempt to
-build colonization ventures outside the Solar System, none are
-successful. Near the end General Tech Level increases to 9.
+Some attempt to colonize other planets in the Solar System, none are
+successful.
 
-2080-2095 Realizing that an escape from Earth and its surrounding
+2080-2095 (TL9) Realizing that an escape from Earth and its surrounding
 planets and outposts is impossible, a large group of unemployed people
 start their own movement. With the help of hundreds of disillusioned
 Corp scientists they propose a plan to create a sub-race of superior
@@ -41,8 +21,7 @@ human beings to rule over mankind fairly and well.
 
 2096-2098 The first batch of The Blood Royal are created, several
 hundred strong they seek to take the reins of power away from the
-Mega-Corps. The Solar System erupts in civil war, the Mega-Corps band
-together against the Blood Royal, and their royalist followers.
+Mega-Corps. All out war ensues.
 
 2099-2103 The Mega-Corps attempt to create several hundred of their own
 "Blood Royal", however it backfires drastically, sabotage by royalist
@@ -57,7 +36,7 @@ Solar System.
 2104-2204 The Terran Monarchy, headed by the Blood Royal, rises from the
 ashes of the Second Dark-Ages. They marshal the resources of the Solar
 System to colonize the stars. The first successful STL colonization
-attempts take root int Alpha Centauri and Barnard star systems.
+attempts take root in Alpha Centauri and Barnard star systems.
 Experimental FTL drives are developed but with no safe results.
 
 2205-2224 The Great Expansion. Humankind encounters the mysterious race
@@ -147,7 +126,7 @@ Commonwealth.
 
 2526-2554 During this period the rest of the galaxy is mapped, the Engai
 are encountered and become peaceful allies. Also during this time the
-Blood Royal Encounter the Markann who are obsessed with destroying the
+Blood Royal encounter the Markann who are obsessed with destroying the
 Blood Royal, the Human race, and the entire Galactic Commonwealth.
 However the Markann work from the shadows, and no one knows were they
 come from. Rise of the Mind-Seizer's.
