@@ -6,7 +6,7 @@ description: Book One of the Alien Invasion Saga
 
 **Book One of the Alien Invasion Saga**
 
-# Overview
+## Overview
 
 The age old question about whether or not we are alone in the universe
 has been answered definitively. Aliens have arrived on Earth and they
@@ -34,7 +34,7 @@ Journey to a world on the brink of destruction, a world very much like
 our own, a world with the same places and people, a world that could
 very well become our own.
 
-#  What Has Gone Before
+##  What Has Gone Before
 
 It has been the belief of many that in 1947 an alien craft crash landed
 near a small town in New Mexico called Roswell. Furthermore, it is
@@ -164,7 +164,7 @@ during the search.
 They plotted their intercept course towards the target planet. A
 blue-white world that the inhabitants liked to call Earth...
 
-#  Here and Now
+##  Here and Now
 
 Deep space scans showed a large spatial anomaly heading into the Solar
 system. But Terran astronomers weren’t worried, mostly they were just
@@ -356,33 +356,25 @@ Where are the race known as the Rakarri, and can Majestic operatives
 contact them and form an alliance? Only you can answer these
 questions... prepare to enter the world of Alien Invasion!
 
-#  Races
+##  Races
 
-## Terrans
+### Terrans
 
--   Otherwise known as humans, natives of the planet Earth (known also
-    > as Terra, or Terra Firma) located in the Solar system.
+-   Otherwise known as humans, natives of the planet Earth (known also as Terra, or Terra Firma) located in the Solar system.
 
--   The Terrans are the defenders in this alternate reality. Their world
-    > has been invaded by the ruthless Dinarri Empire and they have been
-    > enslaved as workers.
+-   The Terrans are the defenders in this alternate reality. Their world has been invaded by the ruthless Dinarri Empire and they have been enslaved as workers.
 
-## Dinarri
+### Dinarri
 
--   Natives of the planet Dinar located in the Epsilon Eridani system
-    > (or so it is called by human astronomers).
+-   Natives of the planet Dinar located in the Epsilon Eridani system (or so it is called by human astronomers).
 
--   They have conquered and enslaved their neighbours the Rakarri and
-    > have now set their sights on Earth and its people.
+-   They have conquered and enslaved their neighbours the Rakarri and have now set their sights on Earth and its people.
 
-## Rakarri
+### Rakarri
 
--   Natives of the planet Rakar also located in the Epsilon Eridani
-    > system.
+-   Natives of the planet Rakar also located in the Epsilon Eridani system.
 
--   They have been subjugated by the Dinarri for almost a century now,
-    > though they dream of their freedom, they are incapable of fighting
-    > for it. However the Terrans may be the key to their salvation.
+-   They have been subjugated by the Dinarri for almost a century now,though they dream of their freedom, they are incapable of fightingfor it. However the Terrans may be the key to their salvation.
 
 The Rakarri are an amorphous, amphibious amoeba-like lifeform with the
 ability to morph into any form they desire. They possess psionic
@@ -407,7 +399,7 @@ equally comfortable on land or water, though they prefer the natural
 mobility that aquatic life affords so most of their cities are built
 under or in the water.
 
-### Racial Template
+#### Racial Template
 
 The Rakarri have an IQ +2 (20 points), DX –1 (-10 points), ST –1 (-10
 points), HT –1 (-10 points), and Move –1 (-5 points).
@@ -441,7 +433,7 @@ skill at IQ-2 (1 point), and Emotion Sense skill at IQ (4 points).
 
 It costs 40 points to be a Rakarri.
 
-### Names
+#### Names
 
 Since the primary mode of communication among the Rakarri is telepathy
 they did not begin to use vocal speech until well after their discovery
@@ -465,7 +457,7 @@ numbers as names and made them form those serial numbers on their
 foreheads. When the Rakarri defected to the human side they chose human
 names for themselves, though their choices tend to be strange at best.
 
-### Psychology
+#### Psychology
 
 The Rakarri are a peaceful, non-violent race by nature, if necessary
 though they can defend themselves but it is psychologically traumatic
@@ -526,7 +518,7 @@ is a highly scientific and rational belief it conveys no awe or mystical
 element. Because of this they feel no need to push their beliefs on to
 others.
 
-### Ecology
+#### Ecology
 
 The Rakarri home world is a lovely water world, with a greenhouse
 climate and shallow oceans.
@@ -640,7 +632,7 @@ human’s must endure with great remorse. Thus they have made it their
 secret goal to find a cure for this malady that afflicts their newfound
 allies.
 
-### Politics
+#### Politics
 
 Rakarri’s politics are an example of the perfect implementation of
 democracy. Every citizen, even children who have not reached maturity,
@@ -659,7 +651,7 @@ but when dealing with criminals of other races they have no concept of
 where to begin. At this point though this problem has not really
 occurred, unless one counts invasion by the Dinarri.
 
-#  Organizations
+##  Organizations
 
 After the invasion force had fully occupied Earth and the rest of the
 Solar system there are only three forces that remain that can be
@@ -668,7 +660,7 @@ Majestic, the Unified Naval Forces of Earth (also known as the UNFE, or
 “The Navy”), and of course the occupational forces of the Dinarri
 Empire.
 
-## Majestic
+### Majestic
 
 Having prepared for such an invasion, Majestic was well able to sustain
 it’s chain of command throughout the initial assault and into the
@@ -695,7 +687,7 @@ which is a part of their forces sometimes. To date however no successful
 contact has been made with this other race to determine if they could be
 the allies the Earth desperately needs.
 
-## The Navy
+### The Navy
 
 The Dinarri’s world is dry and parched, though accustomed to the large
 oceans of the Rakarri’s home world, the Dinarri forces cannot truly
@@ -731,7 +723,7 @@ the great naval ships of the world. The Dinarri seem to totally dismiss
 the strategic value of these small or inhospitable locations, but they
 act as perfect staging grounds for naval ships.
 
-## The Dinarri Empire
+### The Dinarri Empire
 
 Composed of the Dinarri and their Rakarri slaves, the forces of the
 Empire have completely occupied Earth and effectively control the rest
@@ -759,7 +751,7 @@ desperately need it, and this is usually when the Human forces fade back
 into the wilderness, which causes no end of frustration to the Dinarri
 warriors.
 
-# Combat & Tactics
+## Combat & Tactics
 
 There are only two fighting races out of the three in the known
 universe, and neither of them are the Rakarri. Psychologically incapable
@@ -883,9 +875,9 @@ Meanwhile the Rakarri see the deception that the Humans practise and
 rejoice in their hearts that their cruel overlords might have finally
 met their match.
 
-# Technology
+## Technology
 
-## Overview
+### Overview
 
 The technology of the Alien Invasion universe is limited by the “Hard
 Science” rules found on GURPS Ultra-Tech 2, page 6. The “Real Life
@@ -893,7 +885,7 @@ Ultratech” section on page 12 of Ultra-Tech 2 is also in effect. In
 addition the different races have several differences in their relative
 tech levels, as outlined below.
 
-## The Dinarri
+### The Dinarri
 
 The Dinarri are an old species, much older than humans and ancient
 compared to the Rakarri. Their technological progress has been painfully
@@ -931,7 +923,7 @@ most areas with the exception of medicine and life sciences. Their
 medical technology was backward, at best it was low TL6 but in most
 cases was only TL5!
 
-## The Rakarri
+### The Rakarri
 
 As a sentient species the Rakarri are actually much younger than Humans
 (which means they are very young by comparison to the Dinarri), however
@@ -966,13 +958,12 @@ allowed them to develop gravity manipulation technology much earlier
 than the norm. Of course without a source of the mineral (predictably
 dubbed “gravitonite”) the whole science is impossible.
 
-## The Dinarri Empire
+### The Dinarri Empire
 
 The fusion of the Dinarri and Rakarri tech base has produced something
 like low TL9, but with many gaps. Of course the mineral gravitonite has
 advanced the Empire’s gravity technology, it is well beyond what it
-should be, see the special section devoted to [<u>Gravitic
-Technology</u>](http://www.agamemnon.net/index.php?option=com_jd-wiki&Itemid=67&id=gurps:ai:book1:tech:gravitics)).
+should be, see the special section devoted to Gravitic Technology.
 
 One of the major gaps is in the area of weapons technology, while it is
 considered to be at TL9 they do not possess any type of gun that you
@@ -1020,7 +1011,7 @@ to bring down the wrath of their masters). Although they feared that the
 advances they had already made, and that the Dinarri had stolen, were
 bad enough.
 
-## The Humans
+### The Humans
 
 At the time that the Dinarri finally invade Earth had reached the
 equivalent of low TL8 in the more technologically advanced countries,
@@ -1055,11 +1046,11 @@ when faced with Human weapons they often were at a severe disadvantage
 in a protracted firefight where the incredibly reliable human weapons
 often proved the deciding factor.
 
-# Characters (NPC's)
+## Characters (NPC's)
 
-# Character Creation
+## Character Creation
 
-# Dinarri Equipment
+## Dinarri Equipment
 
 Although the Dinarri’s equipment is technologically superior compared to
 the best that Earth can offer, it is often inferior. Most electronic
@@ -1072,7 +1063,7 @@ of the planet using their ships in orbit. Given the chance the Dinarri
 can call in an artillery strike for anywhere in the world in only a
 matter of minutes.
 
-## Dinarri Personal Weapons
+### Dinarri Personal Weapons
 
 The Empire is very set in it’s ways when it comes to weapons. Even if it
 was technically possible to arm it’s troops with laser weapons there has
@@ -1093,7 +1084,7 @@ accuracy of their weapons even further that it already is.
 Every soldier seems to be armed the same, a pistol, a rifle, and a
 personal choice of vibroblade.
 
-### The Dinarri Assault Rifle
+#### The Dinarri Assault Rifle
 
 Apparently bigger is better in the mind of a Dinarri, and this is very
 well illustrated by their choice of design in an assault rifle. The
@@ -1105,7 +1096,7 @@ their clips.
 The weapon isn’t as reliable or accurate, Malf is reduced to 16, and Acc
 is reduced by 3.
 
-### The Dinarri Pistol
+#### The Dinarri Pistol
 
 Equivalent to the Heavy Pistol found on page 49 of GURPS Ultra-Tech 2,
 with the following alterations, reduce Malf to 16 and Acc by 3. This
@@ -1113,7 +1104,7 @@ weapon also fires 10mm rounds similar to the Assault Rifle above,
 however ammunition is always regular kinetic rounds instead of AP or
 Explosive.
 
-### Vibroblades
+#### Vibroblades
 
 See page 24 of GURPS Ultra-Tech for complete description and rules. A
 typical Dinarri soldier will generally carry a couple of knives and
@@ -1121,7 +1112,7 @@ probably a small sword. Officers and Overseer’s are known to carry large
 two handed weapons strapped to their backs as a sign of their rank,
 though they know how to use them with deadly efficiency as well.
 
-## Dinarri Body Armour
+### Dinarri Body Armour
 
 Unlike most human combat soldiers, who eschew heavy armour in favour of
 mobility to keep them alive in combat, the Dinarri place great faith in
@@ -1145,7 +1136,7 @@ the infantry have Medium Clamshell Cuirass instead, and full Combat
 Helmets. Officers and Overseer’s have Heavy Clamshell Cuirass and full
 Combat Helmets.
 
-# Terran Equipment
+## Terran Equipment
 
 In the categories of efficiency and effectiveness Terran equipment had a
 decided advantage over the Dinarri’s, even though it was not as
@@ -1153,7 +1144,7 @@ technologically advanced. When combatants met in battle the Terrans
 usually had the upper hand... at least until the orbital spaceships
 started raining fire...
 
-## Terran Personal Weapons
+### Terran Personal Weapons
 
 Although the human’s overall technology is severally lacking compared to
 that of the Dinarri, weaponry is one area where they are almost on par.
@@ -1184,7 +1175,7 @@ The humans find the reliability of them distressing though, so if they
 do carry them they have generally been tweaked to fix this alarming
 deficiency (increase Malf to Crit).
 
-# Dinarri Vehicles
+## Dinarri Vehicles
 
 The vehicles used by the Dinarri are an odd lot. Conceptualized by the
 Dinarri but designed and built by their Rakarri slaves. As such they
@@ -1223,7 +1214,7 @@ to find a way to use some kind of safer power source than a sustained
 fusion reaction, but nothing safer (such as solar power) could possibly
 generate enough power, or provide the needed endurance.
 
-# Terran Vehicles
+## Terran Vehicles
 
 At the time of the Invasion the nations of Earth had achieved some
 remarkable things. The first ever submersible Aircraft Carrier had been

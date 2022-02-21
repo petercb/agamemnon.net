@@ -1,6 +1,6 @@
 **New Cyberware**
 
-**TL 15 Neural Computer Implant**
+## TL 15 Neural Computer Implant
 
 This device is a very complex brain implant that consists of a special
 type of Artificial Intelligence Computer Implant, excepth that the
