@@ -3,11 +3,11 @@ title: Korean Kimchi Tofu Soup
 date: '2016-11-08'
 categories:
   - recipe
-  - soup
 tags:
   - kimchi
   - tofu
   - zucchini
+  - soup
 ---
 
 Total Time: About 35 mins

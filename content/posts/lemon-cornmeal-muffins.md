@@ -3,10 +3,10 @@ title: Lemon Cornmeal Muffins
 date: '1994-11-12'
 categories:
   - recipe
-  - muffin
 tags:
   - lemon
   - cornmeal
+  - muffins
 ---
 
 makes 1 dozen

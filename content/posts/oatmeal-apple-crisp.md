@@ -3,6 +3,9 @@ title: Oatmeal Apple Crisp Recipe
 date: '1990-09-11'
 categories:
   - recipe
+tags:
+  - apple
+  - oatmeal
   - dessert
 ---
 ## INGREDIENTS

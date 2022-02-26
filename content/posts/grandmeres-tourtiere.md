@@ -3,7 +3,6 @@ title: Grandmere's Tourtiere
 date: '2001-10-11'
 categories:
   - recipe
-  - main
 tags:
   - pork
   - veal

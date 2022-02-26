@@ -3,6 +3,7 @@ title: Bran Muffins
 date: '2015-10-02'
 categories:
   - recipe
+tags:
   - muffins
 ---
 ## Ingredients

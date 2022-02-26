@@ -3,10 +3,10 @@ title: Chocolate coconut macaroons
 date: '2011-09-25'
 categories:
   - recipe
-  - macaroon
 tags:
   - chocolate
   - coconut
+  - macaroon
 ---
 **Yield**:  approximately 3 1/2 dozen depending on size
 

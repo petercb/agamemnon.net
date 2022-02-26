@@ -3,8 +3,8 @@ title: Pineapple Squares
 date: '1996-05-03'
 categories:
   - recipe
-  - dessert
 tags:
+  - dessert
   - pineapple
 ---
 ## Ingredients

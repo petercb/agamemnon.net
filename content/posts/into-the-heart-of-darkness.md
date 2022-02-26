@@ -3,8 +3,8 @@ title: Into the heart of Darkness
 date: "1995-10-01"
 categories:
   - writing
-  - poem
 tags:
+  - poem
   - sonnet
 ---
     Death transposed to a semblance of life,

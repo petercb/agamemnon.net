@@ -2,9 +2,10 @@
 title: The Picnic
 date: '1995-11-16'
 categories:
-  - story
   - writing
 tags:
+  - story
+  - fiction
   - fantasy
   - horror
 ---

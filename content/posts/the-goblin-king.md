@@ -3,6 +3,7 @@ title: The Goblin King
 date: '1993-11-13'
 categories:
   - writing
+tags:
   - story
 ---
 Tarlyn stared down from the ridge at his companion's campsite and the

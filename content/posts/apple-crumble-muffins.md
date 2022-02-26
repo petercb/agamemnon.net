@@ -3,9 +3,9 @@ title: Apple Crumble Muffins
 date: '1996-10-01'
 categories:
   - recipe
-  - muffins
 tags:
   - apple
+  - muffins
 ---
 ## Ingredients
 

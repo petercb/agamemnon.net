@@ -3,8 +3,9 @@ title: The Shroud
 date: '2000-08-12'
 categories:
   - writing
-  - story
 tags:
+  - story
+  - fiction
   - fantasy
 ---
 On a hilltop in England, lashed by a cold wind and shadowed by the

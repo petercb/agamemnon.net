@@ -4,9 +4,9 @@ date: '2011-09-25'
 categories:
   - blog
   - recipe
-  - cake
 tags:
   - apple
+  - cake
 ---
 There is an eatery in Toronto on the corner of Jarvis and Richmond streets called Mystic Muffin that serves the worlds best apple cake.
 

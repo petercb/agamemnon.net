@@ -4,10 +4,10 @@ date: '2012-12-16'
 categories:
   - blog
   - recipe
-  - soup
 tags:
   - beef
   - noodles
+  - soup
 ---
 So I have a new toy to play with in the kitchen, a Pressure Cooker. Ok, its not really new. I found it in the basement, my wife bought it several years ago.
 

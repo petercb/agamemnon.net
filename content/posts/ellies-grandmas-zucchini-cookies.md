@@ -3,8 +3,8 @@ title: Ellie's Grandma's Zucchini Cookies
 date: '2011-09-25'
 categories:
   - recipe
-  - cookies
 tags:
+  - cookies
   - zucchini
 ---
 ## Ingredients

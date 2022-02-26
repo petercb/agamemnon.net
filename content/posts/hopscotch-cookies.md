@@ -3,6 +3,7 @@ title: Hopscotch Cookies
 date: '1992-04-25'
 categories:
   - recipe
+tags:
   - cookies
 ---
 Yield: Makes about 30

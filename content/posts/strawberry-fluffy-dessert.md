@@ -3,8 +3,8 @@ title: Strawberry fluffy dessert
 date: '1992-06-14'
 categories:
   - recipe
-  - dessert
 tags:
+  - dessert
   - strawberry
 ---
 
