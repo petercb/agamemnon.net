@@ -1,7 +1,7 @@
 ---
 title: Blademaster
 ---
-**Blademaster**
+# Blademaster
 
 AD&D 2nd Edition - Warrior class kit
 

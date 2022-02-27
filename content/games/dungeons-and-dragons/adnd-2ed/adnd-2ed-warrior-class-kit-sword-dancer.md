@@ -1,7 +1,7 @@
 ---
 title: Sword Dancer
 ---
-**Sword Dancer**
+# Sword Dancer
 
 AD&D 2nd Edition - Warrior class kit
 

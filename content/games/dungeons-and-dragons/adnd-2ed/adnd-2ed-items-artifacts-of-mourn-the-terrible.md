@@ -1,7 +1,7 @@
 ---
 title: Artifacts of Mourn the Terrible
 ---
-**Artifacts of Mourn The Terrible**
+# Artifacts of Mourn The Terrible
 
 Mourn The Terrible was a Drow Elven wizard that lived in the Underdark
 city of Menzoberranzan for several hundred years before becoming bored

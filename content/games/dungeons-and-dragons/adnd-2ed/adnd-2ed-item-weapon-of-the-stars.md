@@ -1,88 +1,71 @@
 ---
 title: Weapon of the Stars
-draft: true
 ---
-**<u>WEAPON OF THE STARS</u>**
+# WEAPON OF THE STARS
 
-**Name:** Whisper **Alignment:** Chaotic Neutral
+**Name:** Whisper
 
-**Int:** 17 **Communication:** Speech and Telepathy
+**Alignment:** Chaotic Neutral
 
-**Ego:** 50 **Special Purpose:** Slay Evil Dragons
+**Int:** 17
 
-**\# of Languages:** 3 **Special Purpose Powers:**
+**Communication:** Speech and Telepathy
 
-1\) Common i) Disintegrates Target
+**Ego:** 50
 
-2\) Dragon ii) +5 to wielders ability scores
+**Special Purpose:** Slay Evil Dragons
 
-3\) Elven & saving throws until target
+**\# of Languages:** 3
+* Common
+* Dragon
+* Elven
 
-**Bonus to Hit:** +6 is destroyed.
+**Special Purpose Powers:**
+1. Disintegrates Target
+2. +5 to wielders ability scores & saving throws until target is destroyed
+3. Heals wounds
+4. Random Power
 
-**Plus to Damage:** +6 iii) Heals wounds
+**Bonus to Hit:** +6
 
-iv\) Random Power
+**Plus to Damage:** +6
 
-**<u>Primary Abilities</u>**
 
-Detect Magic - 10' Radius
+## Primary Abilities
 
-Locate Object - 150' Radius
+* Detect Magic - 10' Radius
+* Locate Object - 150' Radius
+* Detect Invisibility
+* Find the Path
+* Fly
 
-Detect Invisibility
+## Extraordinary Powers
 
-Find the Path
+* Heal the Wielder once per day
+* Temporarily increase Constitution +4 once per day
+* Transmute Weapon Shape four times per day
 
-Fly
+## Benign Powers
 
-**<u>Extraordinary Powers</u>**
+* Possessor Immune to Fear
+* Possessor Immune to Dragon Breath
+* Possessor Immune to Cold
+* +2 to Armour class when held or worn
 
-Heal the Wielder once per day
+## Weapon Characteristics
 
-Temporarily increase Constitution +4 once per day
+1. Leaves a flaming arc behind its path when used
+1. Always Weights approximately 70 pounds
+1. Can change weapon type (eg. Long Sword, Mace, Staff, etc.)
+1. Will try to control the wielder unless the character has a intelligence or wisdom of over 18 or is wearing a circlet of the stars which was made to work with this weapon.
+1. Weapon is totally silent in its attack and conveys this ability to its user.
 
-Transmute Weapon Shape four times per day
+## Extra Abilities When Used With A Circlet of The Stars
 
-**<u>Benign Powers</u>**
-
-Possessor Immune to Fear
-
-Possessor Immune to Dragon Breath
-
-Possessor Immune to Cold
-
-+2 to Armour class when held or worn
-
-***<u>Weapon Characteristics</u>***
-
-1\) Leaves a flaming arc behind its path when used
-
-2\) Always Weights approximately 70 pounds
-
-3\) Can change weapon type (eg. Long Sword, Mace, Staff, etc.)
-
-4\) Will try to control the wielder unless the character has a
-intelligence or wisdom of over 18 or is wearing a circlet of the stars
-which was made to work with this weapon.
-
-5\) Weapon is totally silent in its attack and conveys this ability to
-its user.
-
-**<u>Extra Abilities When Used With A Circlet of The Stars</u>**
-
-Extra +1 to Hit
-
-+6 to Damage when attacking giant sized creatures
-
-Harness the Elements
-
-Electric Strike
-
-All powers can be performed multiple times with use of mental
-
-energy points.
-
-Ability to capture spells cast at wielder for later use
-
-Random Rift
+* Extra +1 to Hit
+* +6 to Damage when attacking giant sized creatures
+* Harness the Elements
+* Electric Strike
+* All powers can be performed multiple times with use of mental energy points.
+* Ability to capture spells cast at wielder for later use
+* Random Rift
