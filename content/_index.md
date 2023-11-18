@@ -1,6 +1,5 @@
 ---
-title: Agamemnon.net
-description: It just is
+title: It just is
 ---
 
 The ever shifting entity that is this site has changed, yet again.
