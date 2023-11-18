@@ -1,0 +1,25 @@
+<h1>{{ .Page.Params.title | title }}</h1>
+
+{{ with .Page.Params.summary }}
+<b>{{ . }}</b><br/>
+{{ end }}
+
+{{ with .Date }}
+  <b>{{ partial "docs/date" (dict "Date" . "Format" $.Site.Params.BookDateFormat) }}</b><br/>
+{{ end }}
+
+<p>
+{{ with .Page.Params }}
+    {{ if .categories }}
+        {{ .categories }}
+        {{ if .series }}
+            -
+            {{ .series }}
+            {{ if .tags }}
+                -
+                <i>{{ .tags }}</i>
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+</p>

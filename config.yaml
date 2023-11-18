@@ -1,10 +1,27 @@
-baseURL: '/'
+baseURL: https://www.agamemnon.net/
 languageCode: en-gb
 title: Agamemnon.net
-copyright: © {{ now.Format "2021" }} Peter Burns. <a href="https://creativecommons.org/licenses/by/4.0/">Some rights reserved</a>.
+
+# Book configuration
+disableKinds:
+  - taxonomy
+  - term
+disablePathToLower: true
+enableGitInfo: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Needed for mermaid/katex shortcodes
+  tableOfContents:
+    startLevel: 1
+
 module:
   imports:
     - path: 'github.com/alex-shpak/hugo-book'
+
 params:
-  BookSection: "*"
+  BookComments: false
+  BookSection: docs
+  BookRepo: https://github.com/petercb/agamemnon.net
   BooKTheme: auto
