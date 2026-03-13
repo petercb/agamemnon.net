@@ -1,5 +1,5 @@
 module github.com/petercb/agamemnon.net
 
-go 1.17
+go 1.25.0
 
-require github.com/alex-shpak/hugo-book v0.0.0-20230808113920-3f1bcccbfb24 // indirect
+require github.com/alex-shpak/hugo-book v0.0.0-20260108111751-81a841c92d62 // indirect
